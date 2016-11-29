@@ -2,7 +2,7 @@
 title: Purpose and Scope
 ---
 
-CSR is an annual conference that intends to reflect the broad scope of international cooperation in computer science. The topics covered vary from year to year, but in general try to cover as much of the contemporary computer science as possible.
+CCQ is an annual conference that intends to reflect the broad scope of international cooperation in computer science. The topics covered vary from year to year, but in general try to cover as much of the contemporary computer science as possible.
 
 They include, but are not limited to:
 
