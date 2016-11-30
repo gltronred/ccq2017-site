@@ -2,34 +2,29 @@
 title: Program Committee
 ---
 
-# PROGRAM COMMITTEE CHAIR:
+# Program Committee Chairs:
 
-[Farid 	Ablayev (Kazan Federal University, Russia)][Ablayev]
+* [Farid 	Ablayev (Kazan Federal University, Russia)][Ablayev]
+* [Andris	Ambainis (University of Latvia, Latvia, co-chair)][Ambainis]
 
-[Andris	Ambainis (University of Latvia, Latvia)][Ambainis]
+# Program Committee:
 
-# PROGRAM COMMITTEE:
+* [Aleksandrs	Belovs (University of Latvia, Latvia)][Belovs]
+* Julien	Degorre (University della Svizzera italiana, Switzerland)
+* Kamil	Khadiev (University of Latvia, Latvia)
+* [Francois Le Gall (Kyoto University, Japan)][Le-Gall]
+* [Maris	Ozols (University of Cambridge, UK)][Ozols]
+* [Renato	Portugal (National Laboratory of Scientific Computing, Brazil)][Portugal]
+* [A. C. Cem Say (Bogazici University, Turkey)][Say]
+* [Dominique Unruh (University of Tartu, Estonia)][Unruh]
+* [Marcos	Villagra (Universidad Nacional de Asuncion, Paraguay)][Villagra]
+* [Abuzer Yakaryilmaz (University of Latvia, Latvia)][Yakaryilmaz]
 
-[Aleksandrs	Belovs (University of Latvia, Latvia)]
-[Belovs]
+# Local Committee:
 
-Julien	Degorre (University della Svizzera italiana, Switzerland)
-
-Kamil	Khadiev (University of Latvia, Latvia)
-
-[Francois Le Gall (Kyoto University, Japan)][Le-Gall]
-
-[Maris	Ozols (University of Cambridge, UK)][Ozols]
-
-[Renato	Portugal (National Laboratory of Scientific Computing, Brazil)][Portugal]
-
-[A. C. Cem Say (Bogazici University, Turkey)][Say]
-
-[Dominique Unruh (University of Tartu, Estonia)][Unruh]
-
-[Marcos	Villagra (Universidad Nacional de Asuncion, Paraguay)][Villagra]
-
-[Abuzer Yakaryilmaz (University of Latvia, Latvia)][Yakaryilmaz]
+* Person 1 ???
+* Person 2 ???
+* Person 3 ???
 
 [Ablayev]: http://kpfu.ru/Farid.Ablayev?p_lang=2
 [Ambainis]: http://home.lu.lv/~ambainis/
