@@ -25,6 +25,10 @@ main = hakyll $ do
       route idRoute
       compile copyFileCompiler
 
+    match "favicon.ico" $ do
+      route idRoute
+      compile copyFileCompiler
+
     match "pages/*" $ do
       route $ gsubRoute "pages/" (const "") `composeRoutes` setExtension "html"
       compile $ pandocCompilerWith
