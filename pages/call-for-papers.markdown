@@ -9,6 +9,7 @@ Submissions must be in English, and not exceed 12 pages, including the title pag
 
 For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper at the conference.
 
+Accepted papaers will  be published in Lobachevskii Journal of Mathematics (http://www.springer.com/mathematics/journal/12202). LJM indexed by SCOPUS, ESCI, and others. 
 # Important Dates
 
 Deadline for submissions: March 31, 2016.
