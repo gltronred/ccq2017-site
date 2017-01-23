@@ -11,8 +11,8 @@ For an accepted paper to be included in the proceedings, one of the authors must
 
 # Important Dates
 
-Deadline for submissions: December 15, 2016.
+Deadline for submissions: March 31, 2016.
 
-Notification of acceptance: February 15, 2016.
+Notification of acceptance: April 24, 2016.
 
 Workshop dates: June 7, 2017.
