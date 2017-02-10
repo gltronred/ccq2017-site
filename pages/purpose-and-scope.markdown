@@ -2,19 +2,14 @@
 title: Purpose and Scope
 ---
 
-CCQ is an annual conference that intends to reflect the broad scope of international cooperation in computer science. The topics covered vary from year to year, but in general try to cover as much of the contemporary computer science as possible.
+The workshop should be devoted to discussions on classical and quantum computation and cryptography. Submissions including non-finished ideas to raise discussion are
+possible and indeed welcomed. Also, well-written tutorials on specific topics can be accepted as contributions. The main topics include, but are not limited to:
 
-They include, but are not limited to:
+* Quantum and classic computing
+* Algorithms
+* Computational complexity
+* Cryptography
+* Quantum and random walks
+* Automata theory
 
-* algorithms and data structures
-* combinatorial optimization
-* constraint solving
-* computational complexity
-* cryptography
-* combinatorics in computer science
-* formal languages and automata
-* algorithms for concurrent and distributed systems, networks
-* applications of logic to computer science, e.g. proof theory, model checking and verification
-* formal and algorithmic aspects of bio-informatics
-* current challenges such as quantum computing
 

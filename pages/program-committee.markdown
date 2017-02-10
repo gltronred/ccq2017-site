@@ -4,27 +4,31 @@ title: Program Committee
 
 # Program Committee Chairs:
 
-* [Farid 	Ablayev (Kazan Federal University, Russia)][Ablayev]
-* [Andris	Ambainis (University of Latvia, Latvia, co-chair)][Ambainis]
+* [Farid Ablayev (Kazan Federal University, Russia)][Ablayev]
+* [Andris Ambainis (University of Latvia, Latvia, co-chair)][Ambainis]
 
 # Program Committee:
 
-* [Aleksandrs	Belovs (University of Latvia, Latvia)][Belovs]
-* Julien	Degorre (University della Svizzera italiana, Switzerland)
+* [Aleksandrs Belovs (University of Latvia, Latvia)][Belovs]
+* Julien Degorre (University della Svizzera italiana, Switzerland)
 * Kamil	Khadiev (University of Latvia, Latvia)
 * [Francois Le Gall (Kyoto University, Japan)][Le-Gall]
-* [Maris	Ozols (University of Cambridge, UK)][Ozols]
-* [Renato	Portugal (National Laboratory of Scientific Computing, Brazil)][Portugal]
+* [Maris Ozols (University of Cambridge, UK)][Ozols]
+* [Renato Portugal (National Laboratory of Scientific Computing, Brazil)][Portugal]
 * [A. C. Cem Say (Bogazici University, Turkey)][Say]
 * [Dominique Unruh (University of Tartu, Estonia)][Unruh]
-* [Marcos	Villagra (Universidad Nacional de Asuncion, Paraguay)][Villagra]
+* [Marcos Villagra (Universidad Nacional de Asuncion, Paraguay)][Villagra]
 * [Abuzer Yakaryilmaz (University of Latvia, Latvia)][Yakaryilmaz]
 
-# Local Committee:
+# Organizing Committee:
 
-* Person 1 ???
-* Person 2 ???
-* Person 3 ???
+
+* Farid Ablayev
+* Andris Ambainis
+* Rishad Ibrahimov
+* Mansur Ziyatdinov
+* Kamil Khadiev
+* Abuzer Yakaryilmaz
 
 [Ablayev]: http://kpfu.ru/Farid.Ablayev?p_lang=2
 [Ambainis]: http://home.lu.lv/~ambainis/

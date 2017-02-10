@@ -5,8 +5,10 @@ date:   2016-11-28 12:21:48 +0200
 categories: jekyll update
 ---
 
-Deadline for submissions: March 31, 2017 (AoE).
+Deadline for submissions: April 1, 2017 (AoE).
 
-Notification of acceptance: April 24, 2017.
+Author notification: May 05, 2017.
 
-Workshop date: June 7, 2017.
+Final version due: May 20, 2017.
+	
+Workshop date: June 7, 2017. 

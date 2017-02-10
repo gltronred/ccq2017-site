@@ -1,22 +1,24 @@
 ---
 title: Call for Papers
 ---
-Authors are invited to submit papers presenting original research in the conference topics, in electronic form (pdf format) via EasyChair.
+Authors are cordially welcomed to send their contributions to Farid Ablayev (fablayev [at] gmail.com) or Andris Ambainis (andris.ambainis [at] lu.lv) in PDF format. 
 
-Submissions must be unpublished, not under review for publication elsewhere, and provide sufficient information to judge their merits.
+There is no page limit but each submission should start with a title page consisting of the title of the paper; each author's name, affiliation, and email address; and an abstract of 1-2 paragraphs summarizing the paper's contributions. All contributions will be peer-reviewed. 
 
-Submissions must be in English, and not exceed 12 pages, including the title page.
+Simultaneous submissions to other workshop/conferences are allowed.
 
-For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper at the conference.
+All accepted papers will be available as a printed book during the workshop.
 
-Accepted papaers will  be published in [Lobachevskii Journal of Mathematics][ljm]. LJM indexed by SCOPUS, ESCI, and others. 
+The accepted papers eligible to a journal submission will be invited to a special issue of the journal [Lobachevskii Journal of Mathematics][ljm]. LJM indexed by SCOPUS, ESCI, and others. 
 # Important Dates
 
-Deadline for submissions: March 31, 2016.
+Deadline for submissions: April 1, 2017 (AoE).
 
-Notification of acceptance: April 24, 2016.
+Author notification: May 05, 2017.
 
-Workshop dates: June 7, 2017.
+    Final version due: May 20, 2017.
+	
+Workshop date: June 7, 2017. 
 
 
 [ljm]: http://www.springer.com/mathematics/journal/12202
