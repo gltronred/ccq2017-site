@@ -16,7 +16,7 @@ Deadline for submissions: April 1, 2017 (AoE).
 
 Author notification: May 05, 2017.
 
-    Final version due: May 20, 2017.
+Final version due: May 20, 2017.
 	
 Workshop date: June 7, 2017. 
 
