@@ -9,7 +9,7 @@ categories: jekyll update
 
 
 
-* Deadline for submissions: April 1, 2017 (AoE).
+* Deadline for submissions: <s>April 1, 2017</s> <span style="color: red">April 9, 2017</span> (AoE).
 
 * Author notification: May 05, 2017.
 
