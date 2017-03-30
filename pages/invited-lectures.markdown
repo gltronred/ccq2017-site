@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Invited Lectures"
+title:  "Invited Lecture"
 date:   2016-11-28 12:21:48 +0200
 categories: jekyll update
 ---
 
-[Edward A. Hirsch (St.Petersburg, Russia)][Hirsch]
-
-
-[Hirsch]: http://logic.pdmi.ras.ru/~hirsch/
+<a href="http://logic.pdmi.ras.ru/~hirsch/">Edward A. Hirsch (St.Petersburg, Russia)</a>
