@@ -54,6 +54,7 @@ menu = [ ("Purpose and Scope", "purpose-and-scope")
        , ("Important Dates", "important-dates")
        , ("Invited Lectures", "invited-lectures")
        , ("Program Committee", "program-committee")
+       , ("Accepted papers", "accepted-papers")
        , ("Venue", "venue")
        ]
 
