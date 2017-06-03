@@ -1,5 +1,5 @@
 ---
-title: Program Committee
+title: Computation and cryptography with qu-bits
 ---
 
 # Program Committee Chairs:

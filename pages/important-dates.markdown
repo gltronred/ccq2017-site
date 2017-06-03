@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Important Dates"
+title:  "Computation and cryptography with qu-bits"
 date:   2016-11-28 12:21:48 +0200
 categories: jekyll update
 ---
 
-#Dates.
+#Important dates
 
 
 

@@ -1,6 +1,8 @@
 ---
-title: Call for Papers
+title: Computation and cryptography with qu-bits
 ---
+#Call for Papers
+
 Authors are cordially welcomed to send their contributions to Farid Ablayev (fablayev [at] gmail.com) or Andris Ambainis (andris.ambainis [at] lu.lv) in PDF format. 
 
 There is no page limit but each submission should start with a title page consisting of the title of the paper; each author's name, affiliation, and email address; and an abstract of 1-2 paragraphs summarizing the paper's contributions. All contributions will be peer-reviewed. 
