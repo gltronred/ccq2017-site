@@ -29,6 +29,7 @@ title: Computation and cryptography with qu-bits
 * Mansur Ziyatdinov
 * Kamil Khadiev
 * Abuzer Yakaryilmaz
+* Aliya Khadieva
 
 [Ablayev]: http://kpfu.ru/Farid.Ablayev?p_lang=2
 [Ambainis]: http://home.lu.lv/~ambainis/
