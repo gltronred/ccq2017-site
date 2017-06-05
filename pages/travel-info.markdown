@@ -5,13 +5,13 @@ title: Computation and cryptography with qu-bits
 #Travel info
 
 <p>
-From <i>Kazan International Airport</i>, you can get to Kazan Federal university (city center) by taxi or regular train.
+From <i>Kazan International Airport</i>, you can get to Kazan Federal University (city center) by taxi or regular train.
 <br/>We suggest two kinds of taxies:
 <br/>
-1. Taxi of tge airport. You can find the taxi reception desk in the airport. Here you can find English service, pay by card and get bill. Price is about 1100 rub. (18 Euros)
+1. Taxi of the airport. You can find the taxi reception desk in the airport. Here you can find English service, pay by card and get bill. Price is about 1100 rub. (18 Euros)
 <br/>
 2. Uber (<a href="http://uber.com">web site</a>, <a href="https://play.google.com/store/apps/details?id=com.ubercab">for Android</a>, <a href="https://itunes.apple.com/ru/app/uber/id368677368?mt=8">for iPhone</a>), <a href="https://gett.com/ru/services/taxi/">Gett</a>, Yandex.taxi (<a href="https://taxi.yandex.com/#index">web site</a>, <a href="https://taxi.yandex.com/app/#1">download applications</a>) and local <a href="http://taxitatarstan.ru">Taxi Tatarstan</a> (<a href="https://play.google.com/store/apps/details?id=com.taptaxi">for Android</a>, <a href="https://itunes.apple.com/us/app/taptaxi/id545247299?l=ru">for iPhone</a>, <a href="http://www.windowsphone.com/ru-ru/store/app/taptaxi/5fea5ad2-efb3-432c-a885-8debfc382529">for Windows Phone</a>, tel:+7843-567-1-567), 
-<a href="https://kazan.rutaxi.ru/en/index.html">RuTaxi</a> (<a href="https://play.google.com/store/apps/details?id=com.its.rto">for Android</a>, <a href="https://itunes.apple.com/ru/app/rutaxi-onlajn/id506360097?mt=8">for iPhone</a>, <a href="https://www.microsoft.com/ru-ru/store/p/rutaxi/9nblggh0855g?rtc=1">for Windows Phone</a>). Here we are not sure that driver speaks English and gives you bill, but you can pay by card using smartphone application. Price is about 400-500 Rub (7-8 Euro)
+<a href="https://kazan.rutaxi.ru/en/index.html">RuTaxi</a> (<a href="https://play.google.com/store/apps/details?id=com.its.rto">for Android</a>, <a href="https://itunes.apple.com/ru/app/rutaxi-onlajn/id506360097?mt=8">for iPhone</a>, <a href="https://www.microsoft.com/ru-ru/store/p/rutaxi/9nblggh0855g?rtc=1">for Windows Phone</a>). Here we can not guarantee that driver speaks English and gives you bill, but you can pay by card using smartphone application. Price is about 400-500 Rub (7-8 Euro)
 
 <br/>
 You can use a train (<a href="https://kazan.tutu.ru/rasp.php?st1=15916&st2=116&date=08.06.2017">schedule in Russian</a>) from Airport to Kazan railway terminal-1.
