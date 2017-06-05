@@ -57,6 +57,7 @@ menu = [ ("Purpose and Scope", "purpose-and-scope")
        , ("Accepted papers", "accepted-papers")
        , ("Program", "program")
        , ("Venue", "venue")
+       , ("Travel info", "travel-info")
        ]
 
 menuCtx :: Context (String, String)
