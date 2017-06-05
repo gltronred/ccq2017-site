@@ -16,7 +16,8 @@ All events will be in Second building of Kazan Federal University (Kremlevskaya 
 * <span style="font-weight: bold">14:30-15:00</span> Nikolajs Nahimovs, Raqueline A. M. Santos and Kamil Khadiev. On the probability of finding marked connected components using quantum walks
 * <span style="font-weight: bold">15:00-15:30</span> Andris Ambainis, Krisjanis Prusis and Jevgenijs Vihrovs. On Block Sensitivity and Fractional Block Sensitivity 
 * <span style="font-weight: bold">15:30-16:00</span> Kamil Khadiev, Rishat Ibrahimov and Abuzer Yakaryilmaz. New Size Hierarchies for Two Way Automata
-* <span style="font-weight: bold">16:00-16:10</span> Closing
+* <span style="font-weight: bold">16:00-16:30</span> Alexander Vasiliev. Quantum Hashing for finite abelian groups
+* <span style="font-weight: bold">16:30-16:40</span> Closing
 
 
 #Travel info
