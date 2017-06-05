@@ -15,7 +15,7 @@ From <i>Kazan International Airport</i> you can get to Kazan Federal university 
 <br/>
 You can use train (<a href="https://kazan.tutu.ru/rasp.php?st1=15916&st2=116&date=08.06.2017">shchedule in Russian</a>) from Airport to Kazan railway terminal-1.
 
-<p> From <i>Kazan Railway Terminal-1</i> you can  use <a href="https://2gis.ru/kazan/routeSearch/rsType/bus/from/49.100299%2C55.789898?Казань%20Ж%2Fд%20вокзал?2956273234477116?station/to/49.121844%2C55.790835?Кремлевская%2018?2956122910642250?geo?queryState=center%2F49.104381%2C55.786251%2Fzoom%2F15%2FrouteTab">city bus</a> 10, 30, 23. Get Bus from Railway terminal bus-stop (near park) and go to Tukay square bus stop (about 20-25 minutes) and then walk about 10 minutes to the university. Or you can walk about 20-25 minutes. 
+<p> From <i>Kazan Railway Terminal-1</i> you can  use city bus 10, 30, 23. Get Bus from Railway terminal bus-stop (near park) and go to Tukay square bus stop (about 20-25 minutes) and then walk about 10 minutes to the university. Or you can walk about 20-25 minutes. 
 
 <p> From <i>Kazan Railway Terminal-2</i> you can get metro  and go to Tukay square station (about 20 minutes). And than walk about 10 minutes to the university.
 
