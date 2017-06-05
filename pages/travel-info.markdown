@@ -20,9 +20,7 @@ You can use a train (<a href="https://kazan.tutu.ru/rasp.php?st1=15916&st2=116&d
 
 <p> From <i>Kazan Railway Terminal-2</i>, you can get metro  and go to Tukay square station (about 20 minutes). And than walk about 10 minutes to the university.
 
-<p> a ticket
-
-<p> You can find the workshop map <a href="https://www.google.com/maps/d/viewer?mid=1XZ7U9n-7zU9e6htSrgyYJlIes6A&ll=55.79215597032686%2C49.12268413497918&z=17" target="blank">here</a>. Or you can download good off-line maps <a href="https://2gis.ru/kazan">2Gis</a> for your smartphone (<a href="https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile&hl=ru">for Android</a>, <a href="https://itunes.apple.com/uz/app/2gis/id481627348?ign-mpt=uo%3D2">for iPhone</a>) 
+<p> You can find the workshop map <a href="https://www.google.com/maps/d/viewer?mid=1XZ7U9n-7zU9e6htSrgyYJlIes6A&ll=55.79215597032686%2C49.12268413497918&z=17" target="blank">here</a>. Good off-line map for your smartphone is <a href="https://2gis.ru/kazan">2Gis</a>  (<a href="https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile&hl=ru">for Android</a>, <a href="https://itunes.apple.com/uz/app/2gis/id481627348?ign-mpt=uo%3D2">for iPhone</a>) 
 
 <p>All events will be in Second building of Kazan Federal University (Kremlevskaya str, 35). Here scheme how to go from main building to Second building:
 <br/>
