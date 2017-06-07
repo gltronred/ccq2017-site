@@ -2,6 +2,10 @@
 title: Computation and cryptography with qu-bits
 ---
 
+#Invited Lecture
+
+<a href="http://logic.pdmi.ras.ru/~hirsch/">Edward A. Hirsch (St.Petersburg, Russia)</a>
+
 #Accepted papers
 
 * Farid Ablayev and Marat Ablayev. Branching Program Complexity of Quantum Hashing 
