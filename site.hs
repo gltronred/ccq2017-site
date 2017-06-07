@@ -28,7 +28,8 @@ main = hakyll $ do
     match "favicon.ico" $ do
       route idRoute
       compile copyFileCompiler
-    match "ccq_papers.pdf" $ do
+
+    match "*.pdf" $ do
       route idRoute
       compile copyFileCompiler
 
