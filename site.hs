@@ -28,6 +28,9 @@ main = hakyll $ do
     match "favicon.ico" $ do
       route idRoute
       compile copyFileCompiler
+    match "ccq_papers.pdf" $ do
+      route idRoute
+      compile copyFileCompiler
 
     match "pages/*" $ do
       route $ gsubRoute "pages/" (const "") `composeRoutes` setExtension "html"
