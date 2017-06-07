@@ -11,3 +11,5 @@ title: Computation and cryptography with qu-bits
 * Nikolajs Nahimovs, Raqueline A. M. Santos and Kamil Khadiev. On the probability of finding marked connected components using quantum walks
 * Pavel Stremoukhov, Farid Ablayev and Ansar Safin. Quantum random number generators. The state of art, direction of research, tentative results
 * Alexander Vasiliev. Quantum Hashing for finite abelian groups
+
+<a href="ccq_papers.pdf">Download proceedings</a>
