@@ -49,8 +49,7 @@ main = hakyll $ do
 --------------------------------------------------------------------------------
 
 menu :: [(String, String)]
-menu = [ ("Purpose and Scope", "purpose-and-scope")
-       , ("Call for Papers", "call-for-papers")
+menu = [ ("Call for Papers", "call-for-papers")
        , ("Important Dates", "important-dates")
        , ("Program Committee", "program-committee")
        , ("Accepted and Invited Talks", "accepted-papers")
