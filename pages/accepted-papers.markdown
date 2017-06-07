@@ -16,4 +16,4 @@ title: Computation and cryptography with qu-bits
 * Pavel Stremoukhov, Farid Ablayev and Ansar Safin. Quantum random number generators. The state of art, direction of research, tentative results
 * Alexander Vasiliev. Quantum Hashing for finite abelian groups
 
-<a href="ccq_papers.pdf">Download proceedings</a>
+<a href="/ccq-papers.pdf">Download proceedings</a>
